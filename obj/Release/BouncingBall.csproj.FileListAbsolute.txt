@@ -9,3 +9,14 @@ C:\Users\osman\Downloads\BouncingBall\BouncingBall\obj\Release\BouncingBall.cspr
 C:\Users\osman\Downloads\BouncingBall\BouncingBall\obj\Release\BouncingBall.csproj.CoreCompileInputs.cache
 C:\Users\osman\Downloads\BouncingBall\BouncingBall\obj\Release\BouncingBall.exe
 C:\Users\osman\Downloads\BouncingBall\BouncingBall\obj\Release\BouncingBall.pdb
+C:\Users\osman\Desktop\gitten\BouncingBall\bin\Release\BouncingBall.exe.config
+C:\Users\osman\Desktop\gitten\BouncingBall\bin\Release\BouncingBall.exe
+C:\Users\osman\Desktop\gitten\BouncingBall\bin\Release\BouncingBall.pdb
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.Form1.resources
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.Properties.Resources.resources
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.exe
+C:\Users\osman\Desktop\gitten\BouncingBall\obj\Release\BouncingBall.pdb

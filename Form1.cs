@@ -12,8 +12,8 @@ namespace BouncingBall
 {
     public partial class Form1 : Form
     {
-        private int ballWidth = 300;
-        private int ballHeight = 300;
+        private int ballWidth = 45;
+        private int ballHeight = 45;
         private int ballPosX = 0;
         private int ballPosY = 0;
         private int moveStepX = 4;
@@ -40,7 +40,7 @@ namespace BouncingBall
 
             e.Graphics.Clear(this.BackColor);
 
-            e.Graphics.FillEllipse(Brushes.Red,
+            e.Graphics.FillEllipse(Brushes.BlueViolet,
                 ballPosX, ballPosY,
                 ballWidth, ballHeight);
 
